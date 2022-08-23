@@ -1,0 +1,15 @@
+C:\Users\Mostafa Abbasi\source\RezaBagheri\ImplementingQueueWithStacks\bin\Debug\net6.0\ImplementingQueueWithStacks.exe
+C:\Users\Mostafa Abbasi\source\RezaBagheri\ImplementingQueueWithStacks\bin\Debug\net6.0\ImplementingQueueWithStacks.deps.json
+C:\Users\Mostafa Abbasi\source\RezaBagheri\ImplementingQueueWithStacks\bin\Debug\net6.0\ImplementingQueueWithStacks.runtimeconfig.json
+C:\Users\Mostafa Abbasi\source\RezaBagheri\ImplementingQueueWithStacks\bin\Debug\net6.0\ImplementingQueueWithStacks.dll
+C:\Users\Mostafa Abbasi\source\RezaBagheri\ImplementingQueueWithStacks\bin\Debug\net6.0\ImplementingQueueWithStacks.pdb
+C:\Users\Mostafa Abbasi\source\RezaBagheri\ImplementingQueueWithStacks\obj\Debug\net6.0\ImplementingQueueWithStacks.csproj.AssemblyReference.cache
+C:\Users\Mostafa Abbasi\source\RezaBagheri\ImplementingQueueWithStacks\obj\Debug\net6.0\ImplementingQueueWithStacks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mostafa Abbasi\source\RezaBagheri\ImplementingQueueWithStacks\obj\Debug\net6.0\ImplementingQueueWithStacks.AssemblyInfoInputs.cache
+C:\Users\Mostafa Abbasi\source\RezaBagheri\ImplementingQueueWithStacks\obj\Debug\net6.0\ImplementingQueueWithStacks.AssemblyInfo.cs
+C:\Users\Mostafa Abbasi\source\RezaBagheri\ImplementingQueueWithStacks\obj\Debug\net6.0\ImplementingQueueWithStacks.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa Abbasi\source\RezaBagheri\ImplementingQueueWithStacks\obj\Debug\net6.0\ImplementingQueueWithStacks.dll
+C:\Users\Mostafa Abbasi\source\RezaBagheri\ImplementingQueueWithStacks\obj\Debug\net6.0\refint\ImplementingQueueWithStacks.dll
+C:\Users\Mostafa Abbasi\source\RezaBagheri\ImplementingQueueWithStacks\obj\Debug\net6.0\ImplementingQueueWithStacks.pdb
+C:\Users\Mostafa Abbasi\source\RezaBagheri\ImplementingQueueWithStacks\obj\Debug\net6.0\ImplementingQueueWithStacks.genruntimeconfig.cache
+C:\Users\Mostafa Abbasi\source\RezaBagheri\ImplementingQueueWithStacks\obj\Debug\net6.0\ref\ImplementingQueueWithStacks.dll
